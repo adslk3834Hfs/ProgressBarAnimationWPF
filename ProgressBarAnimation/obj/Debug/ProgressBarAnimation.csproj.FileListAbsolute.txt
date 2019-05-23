@@ -1,0 +1,15 @@
+c:\users\бейсеевс.corp\source\repos\ProgressBarAnimation\ProgressBarAnimation\bin\Debug\ProgressBarAnimation.exe.config
+c:\users\бейсеевс.corp\source\repos\ProgressBarAnimation\ProgressBarAnimation\bin\Debug\ProgressBarAnimation.exe
+c:\users\бейсеевс.corp\source\repos\ProgressBarAnimation\ProgressBarAnimation\bin\Debug\ProgressBarAnimation.pdb
+c:\users\бейсеевс.corp\source\repos\ProgressBarAnimation\ProgressBarAnimation\obj\Debug\ProgressBarAnimation.csprojAssemblyReference.cache
+c:\users\бейсеевс.corp\source\repos\ProgressBarAnimation\ProgressBarAnimation\obj\Debug\MainWindow.g.cs
+c:\users\бейсеевс.corp\source\repos\ProgressBarAnimation\ProgressBarAnimation\obj\Debug\App.g.cs
+c:\users\бейсеевс.corp\source\repos\ProgressBarAnimation\ProgressBarAnimation\obj\Debug\ProgressBarAnimation_MarkupCompile.cache
+c:\users\бейсеевс.corp\source\repos\ProgressBarAnimation\ProgressBarAnimation\obj\Debug\ProgressBarAnimation_MarkupCompile.lref
+c:\users\бейсеевс.corp\source\repos\ProgressBarAnimation\ProgressBarAnimation\obj\Debug\MainWindow.baml
+c:\users\бейсеевс.corp\source\repos\ProgressBarAnimation\ProgressBarAnimation\obj\Debug\ProgressBarAnimation.g.resources
+c:\users\бейсеевс.corp\source\repos\ProgressBarAnimation\ProgressBarAnimation\obj\Debug\ProgressBarAnimation.Properties.Resources.resources
+c:\users\бейсеевс.corp\source\repos\ProgressBarAnimation\ProgressBarAnimation\obj\Debug\ProgressBarAnimation.csproj.GenerateResource.cache
+c:\users\бейсеевс.corp\source\repos\ProgressBarAnimation\ProgressBarAnimation\obj\Debug\ProgressBarAnimation.csproj.CoreCompileInputs.cache
+c:\users\бейсеевс.corp\source\repos\ProgressBarAnimation\ProgressBarAnimation\obj\Debug\ProgressBarAnimation.exe
+c:\users\бейсеевс.corp\source\repos\ProgressBarAnimation\ProgressBarAnimation\obj\Debug\ProgressBarAnimation.pdb
